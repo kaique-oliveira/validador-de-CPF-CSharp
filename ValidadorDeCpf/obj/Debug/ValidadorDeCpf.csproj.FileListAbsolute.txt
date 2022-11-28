@@ -1,0 +1,8 @@
+C:\Users\Interfocus\Desktop\ValidadorDeCpf\ValidadorDeCpf\bin\Debug\ValidadorDeCpf.exe.config
+C:\Users\Interfocus\Desktop\ValidadorDeCpf\ValidadorDeCpf\bin\Debug\ValidadorDeCpf.exe
+C:\Users\Interfocus\Desktop\ValidadorDeCpf\ValidadorDeCpf\bin\Debug\ValidadorDeCpf.pdb
+C:\Users\Interfocus\Desktop\ValidadorDeCpf\ValidadorDeCpf\obj\Debug\ValidadorDeCpf.csproj.AssemblyReference.cache
+C:\Users\Interfocus\Desktop\ValidadorDeCpf\ValidadorDeCpf\obj\Debug\ValidadorDeCpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Interfocus\Desktop\ValidadorDeCpf\ValidadorDeCpf\obj\Debug\ValidadorDeCpf.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\ValidadorDeCpf\ValidadorDeCpf\obj\Debug\ValidadorDeCpf.exe
+C:\Users\Interfocus\Desktop\ValidadorDeCpf\ValidadorDeCpf\obj\Debug\ValidadorDeCpf.pdb
